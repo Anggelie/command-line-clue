@@ -1,14 +1,14 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Clockmaker
-- [ ] The Carpenter
-- [ ] The Doctor
+- [ ] The Innkeeper
+- [ ] The Musician
+- [ ] The Shopkeeper
 
 ## Weapons
-- [ ] Antique Compass
-- [ ] Brass Candlestick
-- [ ] Walking Stick
+- [ ] Steel Ruler
+- [ ] Old Key
+- [ ] Heavy Book
 
 ## Notes
 *Use this space to record your findings and deductions...*

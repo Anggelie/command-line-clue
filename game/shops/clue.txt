@@ -1,0 +1,5 @@
+Investigation Update:
+
+A hastily written note mentions checking the market next.
+
+Remember: Use 'cd "market"' to follow this lead.

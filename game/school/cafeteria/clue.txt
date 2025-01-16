@@ -1,5 +1,10 @@
-Investigation Update:
+Investigation Conclusion:
 
-You notice fresh footprints leading towards the kitchen.
+Your detective instincts were right - this empty room holds the answers. The pristine state of things confirms this is where it happened.
 
-Remember: Use 'cd "kitchen"' to follow this lead.
+Your careful detective work has paid off. The empty state of this room matches 
+witness accounts - no one was around when the crime occurred. This must be 
+where the murderer carried out their plan!
+
+Make sure to document this discovery in your notebook.md file along with your 
+other findings about the weapon and suspect.
