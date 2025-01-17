@@ -1,16 +1,15 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Postman
+- [X] The Postman
 - [ ] The Librarian
-- [ ] The Banker
+- [X] The Banker
 
 ## Weapons
-- [ ] Wooden Box
+- [X] Wooden Box
 - [ ] Walking Stick
-- [ ] Paint Brush
+- [X] Paint Brush
 
 ## Notes
-*Use this space to record your findings and deductions...*
+La que cometió el crimen fue la bibliotecaría y su arma fue un baston, la escena del crimen sucedio en el gimnasio.
 
-Location of the crime is still unknown - the room must have been empty when it happened...
