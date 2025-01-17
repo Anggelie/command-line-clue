@@ -1,6 +1,6 @@
 New Clue:
 
-Check the council chamber in the town hall.
+Go back and check the living room in the houses.
 
 Hint: You'll need to go back several directories to reach this location.
 Remember that you can use multiple '../' to go up multiple levels:

@@ -1,14 +1,14 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Innkeeper
-- [ ] The Musician
-- [ ] The Shopkeeper
+- [ ] The Postman
+- [ ] The Librarian
+- [ ] The Banker
 
 ## Weapons
-- [ ] Steel Ruler
-- [ ] Old Key
-- [ ] Heavy Book
+- [ ] Wooden Box
+- [ ] Walking Stick
+- [ ] Paint Brush
 
 ## Notes
 *Use this space to record your findings and deductions...*
